@@ -4,7 +4,7 @@ A simple python script to create Telegram sticker collages.
 
 ![preview](preview.png)
 
-## [Download](https://github.com/DexFolf/StickerCollageMaker)
+## [Download](https://github.com/DexFolf/StickerCollageMaker/releases/latest)
 
 ## Requirements
 ### If you're running the .exe
